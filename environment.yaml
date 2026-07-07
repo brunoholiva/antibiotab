@@ -1,0 +1,16 @@
+name: antibiotab
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.11,<3.12
+  - rdkit
+  - rich
+  - joblib
+  - pandas
+  - numpy
+  - scikit-learn
+  - pytest
+  - pip
+  - pip:
+    - tabpfn
+    - descriptastorus
