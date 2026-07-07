@@ -1,2 +1,7 @@
 data/
+
 *.txt
+*.ini
+.vscode/
+*_cache/
+__pycache__/
